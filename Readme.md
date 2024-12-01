@@ -6,6 +6,12 @@
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/Frederik-Finance/financial-derivatives-modelling)
 
+## 📊 Complete Analysis & Results
+
+For detailed methodology, findings, and comprehensive analysis, please see the full report:
+
+[📥 Download Complete Report (PDF)](./report.pdf)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
@@ -87,8 +93,7 @@ The **Financial Derivatives Modeling and Risk Management** project offers a comp
 │   ├── SPX_options.csv
 │   ├── SPY_options.csv
 │   └── zero_rates_20201201.csv
-├── report/
-│   └── report.pdf
+├── report.pdf
 ├── requirements.txt
 └── README.md
 ```
