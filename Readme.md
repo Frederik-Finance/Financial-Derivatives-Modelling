@@ -10,7 +10,7 @@
 
 For detailed methodology, findings, and comprehensive analysis, please see the full report:
 
-[📥 Download Complete Report (PDF)](./report.pdf)
+[📥 See Complete Report (PDF)](./report.pdf)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
